@@ -1,5 +1,5 @@
 {
-  "name": "@gregfrench/react-native-wheel-picker",
+  "name": "@starling-tech/react-native-wheel-picker",
   "version": "1.2.17",
   "description": "React native cross platform picker.",
   "main": "index.js",
